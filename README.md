@@ -48,7 +48,9 @@ Next we will make another example from Karen creating a ticket with less severit
 </p>
 <br />
 <img src="https://i.ibb.co/0QkpJgK/step1-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
-
+</p>
 <br />
+Now we will log on as an agent we've created back in the last lab (jane.doe) 
+</p>
+<br />
+<img src="https://i.ibb.co/wJCcDWz/step1-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
