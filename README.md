@@ -54,3 +54,11 @@ Now we will log on as an agent we've created back in the last lab (jane.doe)
 </p>
 <br />
 <img src="https://i.ibb.co/wJCcDWz/step1-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+You can see once we have logged in, the tickets we've created as Karen or enduser will pop up.
+</p>
+<br />
+<img src="https://i.ibb.co/rpMHcjr/step1-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
