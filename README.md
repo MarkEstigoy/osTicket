@@ -67,3 +67,11 @@ Click ticket "767948", we will want too edit the priority level for this ticket 
 <br />
 <img src="https://i.ibb.co/xSBr5GW/step1-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/M7PN4F6/step2-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Write the reason why it will be an emergency, for this example the bank will not be able too run because the customers cannot log onto the mobile banking system. Select "Update" once you have completed it
+</p>
+<br />
+<img src="https://i.ibb.co/Dw8xq2L/step2-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
