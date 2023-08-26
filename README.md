@@ -62,3 +62,8 @@ You can see once we have logged in, the tickets we've created as Karen or enduse
 <img src="https://i.ibb.co/rpMHcjr/step1-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+Click ticket "767948", we will want too edit the priority level for this ticket since having the mobile banking system login down is business impacting event. Click "Normal" for the priority and change it into "Emergency".
+</p>
+<br />
+<img src="https://i.ibb.co/xSBr5GW/step1-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/M7PN4F6/step2-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
