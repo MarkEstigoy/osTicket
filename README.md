@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-First log onto the osTicket we have just created using this link (http://localhost/osTicket/). Click on "Open a New Ticket" 
+First we will use osTicket as an enduser too create tickets. Use this link (http://localhost/osTicket/). Click on "Open a New Ticket" 
 </p>
 <br />
 <img src="https://i.ibb.co/ZKGF8Nd/step1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -42,6 +42,13 @@ Click "Create Ticket" once completed, it should create the ticket and bring you 
 </p>
 <br />
 <img src="https://i.ibb.co/Fsvp2J4/step1-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next we will make another example from Karen creating a ticket with less severity. This ticket will be a "General Inquiry" ticket about the updates on new equipment. 
+</p>
+<br />
+<img src="https://i.ibb.co/0QkpJgK/step1-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 <br />
