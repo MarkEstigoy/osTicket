@@ -36,20 +36,12 @@ Next fill in the empty spaces for ticket inquiry. For this example we are going 
 <br />
 <img src="https://i.ibb.co/P5FYQ9C/step1-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/TKGCCrn/step1-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+Click "Create Ticket" once completed, it should create the ticket and bring you to this page.
+</p>
+<br />
+<img src="https://i.ibb.co/Fsvp2J4/step1-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
 <br />
