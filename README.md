@@ -87,4 +87,14 @@ Select "SEV-A" since we have created that SLA plan for the most severe tickets a
 <img src="https://i.ibb.co/51tCvSR/step2-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+We can see that the SLA plan has changed to Sev-A. Next we will want too transfer this ticket too the "System Adminstrators" department because they are more equipped too handle a ticket like this. It seems more of a programming technical issue. Select "Support" in the Department too start the transfer.
+</p>
+<br />
+<img src="https://i.ibb.co/PDjRX5B/step2-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Select "System Adminstrators" and press transfer
+</p>
+<br />
+<img src="https://i.ibb.co/9wdKVLK/step2-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
