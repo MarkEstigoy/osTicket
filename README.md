@@ -75,3 +75,10 @@ Write the reason why it will be an emergency, for this example the bank will not
 <img src="https://i.ibb.co/Dw8xq2L/step2-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+Next we will change the severity of the SLA, to do this select "Default SLA" button
+</p>
+<br />
+<img src="https://i.ibb.co/vPKbYwx/step2-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
