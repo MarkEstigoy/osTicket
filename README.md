@@ -93,8 +93,9 @@ We can see that the SLA plan has changed to Sev-A. Next we will want too transfe
 <img src="https://i.ibb.co/PDjRX5B/step2-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-Select "System Adminstrators" and press transfer
+Select "System Adminstrators" and write down the reason for the transfer. Press the transfer button after too complete the action
 </p>
 <br />
 <img src="https://i.ibb.co/9wdKVLK/step2-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/jDPY2t5/step2-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
