@@ -148,5 +148,20 @@ Update the SLA-plan into SEV-C. It is a low priority que because it does not imp
 <img src="https://i.ibb.co/x2460WM/step3-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
+Now post the reply that new equipment will be coming in and they are welcome too use their own equipment at the office. (Resolving the ticket) Select "Resolved" and post the reply too close out the ticket.
+</p>
+<br />
+<img src="https://i.ibb.co/FxkW3tC/step3-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+We can now see that we have closed out 2 tickets. 
+</p>
+<br />
+<img src="https://i.ibb.co/84P6Lc9/step3-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Congratulations! You have created your own tickets and resolved them! You can see that there are no more open tickets in the section. This has concluded the lab.
+</p>
+<br />
+<img src="https://i.ibb.co/5KJqf0G/step3-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
