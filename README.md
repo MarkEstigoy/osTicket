@@ -116,5 +116,37 @@ We can see that the ticket we have just created is in the "closed" section
 </p>
 <br />
 <img src="https://i.ibb.co/cK5WwRV/step2-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next we will start the second ticket. Select the "General Inquiry" ticket 
+</p>
+<br />
+<img src="https://i.ibb.co/ng2Grq3/step3-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Select the SLA plan for this , we will want too put this on low severity since this is just a question 
+</p>
+<br />
+<img src="https://i.ibb.co/kKFyq04/step3-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Change it too low priority since it does not impact business operations
+</p>
+<br />
+<img src="https://i.ibb.co/kmgXNDj/step3-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next we will want too change it too a low priority SLA-plan (Sev-C). Select "Default SLA" too change the SLA
+</p>
+<br />
+<img src="https://i.ibb.co/vkMK190/step3-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Update the SLA-plan into SEV-C. It is a low priority que because it does not impact business operations and it is just an general inquiry question.
+</p>
+<br />
+<img src="https://i.ibb.co/x2460WM/step3-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
 
