@@ -81,4 +81,10 @@ Next we will change the severity of the SLA, to do this select "Default SLA" but
 <img src="https://i.ibb.co/vPKbYwx/step2-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+Select "SEV-A" since we have created that SLA plan for the most severe tickets and having a mobile banking system down is critical event for business
+</p>
+<br />
+<img src="https://i.ibb.co/51tCvSR/step2-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
