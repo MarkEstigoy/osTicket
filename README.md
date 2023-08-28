@@ -98,4 +98,23 @@ Select "System Adminstrators" and write down the reason for the transfer. Press 
 <br />
 <img src="https://i.ibb.co/9wdKVLK/step2-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/jDPY2t5/step2-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Now that we have sent the ticket too "System Adminstrators" we can resolve the ticket. Open the ticket, write down that you have resolved it, and closed the ticket. Make sure you change the ticket status on the bottom too resolve the ticket.
+</p>
+<br />
+<img src="https://i.ibb.co/yVsBGtq/step2-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Congratulations! You have resolved your first ticket!
+</p>
+<br />
+<img src="https://i.ibb.co/qpY4Y7B/step2-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+We can see that the ticket we have just created is in the "closed" section
+</p>
+<br />
+<img src="https://i.ibb.co/cK5WwRV/step2-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
